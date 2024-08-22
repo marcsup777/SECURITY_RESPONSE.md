@@ -1,0 +1,3 @@
+Confedenciality: Ensures that sensitive information is accessed only by authorized individuals. This is often achieved through encryption and access controls.
+Integrity: Maintains the accuracy and trustworthiness of data, ensuring it is not altered or tampered with. Techniques like hashing are commonly used to verify data integrity.
+Availability: Guarantees that information and resources are accessible to authorized users whenever needed. This involves maintaining hardware, updating software, and implementing robust network architectures
